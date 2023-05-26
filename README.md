@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, sou Tiago Müller e sou desenvolvedor de TI!<br><br>💻 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas, além de cursos por fora com forte conhecimento em Python, Java, HTML, CSS e JavaScript.<br><br>🌱 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e de programação.<br><br>🤝 Adoro trabalhar em equipe e colaborar com outros desenvolvedores para criar soluções inovadoras e eficientes.<br><br>📫 Você pode me encontrar em https://www.linkedin.com/in/tiago-muller/ . Vamos nos conectar!
+👋 Olá, sou Tiago Müller e sou desenvolvedor de Software!<br><br>💻 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas, além de cursos por fora com forte conhecimento em Python, Java, HTML, CSS e JavaScript.<br><br>🌱 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e de programação.<br><br>🤝 Adoro trabalhar em equipe e colaborar com outros desenvolvedores para criar soluções inovadoras e eficientes.<br><br>📫 Você pode me encontrar em https://www.linkedin.com/in/tiago-muller/ . Vamos nos conectar!
 
 
 ## 🌐 Socials:
